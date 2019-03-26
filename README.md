@@ -4,7 +4,7 @@
 ## Особенности
 
 * использование препроцессора [SASS](https://sass-lang.com/)
-* использование транспайлера [Babel](https://babeljs.io/) для поддержки современного JavaScript (ES6) в браузерах
+* использование транспайлера [Babel](https://babeljs.io/) для поддержки современного JavaScript (ES7) в браузерах
 * использование [Webpack](https://webpack.js.org/) для сборки JavaScript-модулей
 
 
