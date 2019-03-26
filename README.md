@@ -1,4 +1,4 @@
-![webpack-4-starter](https://imgur.com/XTGa3Pd)
+![webpack-4-starter](https://imgur.com/XTGa3Pd.png)
 # webpack-4-starter
 
 ## Особенности
