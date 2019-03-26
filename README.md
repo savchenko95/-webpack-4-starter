@@ -25,25 +25,25 @@
 |
 ├── public               			- папка где билдится сайт
 ├─┬ src                  			- папка с исходниками сайта
-│ ├─┬ css								 			- папка с css файлами
+│ ├─┬ css                     - папка с css файлами
 | | └── normalize.css 				- файл нормализации стилей
 | |
-|	├── favicon            			- папка с файлами иконок
+|	├── favicon                 - папка с файлами иконок
 │ ├── fonts              			- папка со шрифтами
 │ ├── html               			- папка заготовок HTML страниц
 │ ├── img                			- папка с общими изображениями (логотип, иконки и др.)
 │ ├─┬ js                 			- папка с JavaScript файлами
-|	|	└── postcss.config.js 		- файл конфигурации postcss - процессов
+|	|	└── postcss.config.js     - файл конфигурации postcss - процессов
 | |
 │ ├── sass  									- папка с SASS файлами
 | ├── static            			- папка с статическими файлами для обработки
-│ ├── index.html							- файл главной страницы
-| └── index.js								- файл точки входа Webpack
+│ ├── index.html              - файл главной страницы
+| └── index.js                - файл точки входа Webpack
 |
-├─┬ webpack_config						_________________________________________
+├─┬ webpack_config
 |	├── webpack.base.config.js
 | ├── webpack.build.config.js -	 файлы конфигурации Webpack
-| └── webpack.dev.config.js		_________________________________________
+| └── webpack.dev.config.js
 |
 ├── package.json        			- файл настроек Node.js
 └── .gitignore           			- запрет на отслеживание файлов Git`ом
