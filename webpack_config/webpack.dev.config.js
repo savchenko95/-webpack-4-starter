@@ -10,7 +10,7 @@ const devWebpackConfig = merge(baseWebpackConfig, {
     // historyApiFallback: true,
     // noInfo: true,
     contentBase: baseWebpackConfig.externals.paths.dist,
-    host: '192.168.0.107',
+    host: '192.x.x.x',
     port: 8081,
     overlay: {
       warnings: true,
