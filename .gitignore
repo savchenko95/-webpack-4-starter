@@ -1,0 +1,16 @@
+# Node
+node_modules
+
+# Other
+npm-debug.log*
+
+# Lock
+package-lock.json
+
+# BD, logs
+*.log
+
+# Build
+public
+dist
+users
