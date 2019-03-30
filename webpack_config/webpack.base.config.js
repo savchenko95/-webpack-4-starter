@@ -32,7 +32,7 @@ module.exports = {
       loader: 'babel-loader',
       exclude: '/node_modules/'
     }, {
-      test: /\.(png|jpe?g|gif|svg)$/,
+      test: /\.(png|jpe?g|gif|svg|woff|woff2|eot|ttf)$/,
       loader: 'file-loader',
       options: {
         name: '[name].[ext]',
